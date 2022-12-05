@@ -1,5 +1,41 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "q-b4RmrOWp0",
+            "name": "Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4",
+            "size": 65.167125,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4?raw=true"
+        },
+        {
+            "id": "xVbeo001neg",
+            "name": "Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - II. Adagio-xVbeo001neg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - II. Adagio-xVbeo001neg.mp4",
+            "size": 4.017142,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - II. Adagio-xVbeo001neg.mp4?raw=true"
+        },
+        {
+            "id": "5dsFXbDGtyY",
+            "name": "Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - II. Menuetto-5dsFXbDGtyY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - II. Menuetto-5dsFXbDGtyY.mp4",
+            "size": 2.522437,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - II. Menuetto-5dsFXbDGtyY.mp4?raw=true"
+        },
+        {
+            "id": "x8j1x3pTOyo",
+            "name": "Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
+            "size": 80.182108,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4?raw=true"
+        },
+        {
+            "id": "EseMHr6VEM0",
+            "name": "Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4",
+            "size": 14.647708999999999,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4?raw=true"
+        }
+    ],
+    "total_size": 166.536521
 }
