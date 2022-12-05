@@ -2,11 +2,25 @@
     "available_space": true,
     "content": [
         {
+            "id": "1YPRrSkiBvc",
+            "name": "Medios de Comunicaci\u00f3n-1YPRrSkiBvc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Medios de Comunicaci\u00f3n-1YPRrSkiBvc.mp4",
+            "size": 1.733939,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Medios de Comunicaci\u00f3n-1YPRrSkiBvc.mp4?raw=true"
+        },
+        {
             "id": "jH4KtG9ybwc",
             "name": "Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4",
             "size": 48.149195,
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4?raw=true"
+        },
+        {
+            "id": "KyOuKtn6oRI",
+            "name": "Liszt - Cantique au soleil pour baryton, choeur et orchestre-KyOuKtn6oRI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Liszt - Cantique au soleil pour baryton, choeur et orchestre-KyOuKtn6oRI.mp4",
+            "size": 9.68643,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Liszt - Cantique au soleil pour baryton, choeur et orchestre-KyOuKtn6oRI.mp4?raw=true"
         },
         {
             "id": "q-b4RmrOWp0",
@@ -30,6 +44,13 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Space - Magic Fly (Original Video) - 1977-ZavwtJxmqJI.mp4?raw=true"
         },
         {
+            "id": "D4aqhO_wAxo",
+            "name": "Gershwin - Of Thee I Sing - Overture-D4aqhO_wAxo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Gershwin - Of Thee I Sing - Overture-D4aqhO_wAxo.mp4",
+            "size": 4.187301,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Gershwin - Of Thee I Sing - Overture-D4aqhO_wAxo.mp4?raw=true"
+        },
+        {
             "id": "HZd0E0FOJwc",
             "name": "Liszt - Missa solemnis zur Einweihung der Basilika in Gran - 5. Benedictus-HZd0E0FOJwc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Liszt - Missa solemnis zur Einweihung der Basilika in Gran - 5. Benedictus-HZd0E0FOJwc.mp4",
@@ -42,6 +63,20 @@
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - II. Adagio-xVbeo001neg.mp4",
             "size": 4.017142,
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Keyboard Sonata No. 10 in C Major, Hob. XVI, 1 - II. Adagio-xVbeo001neg.mp4?raw=true"
+        },
+        {
+            "id": "V-840mB5Q7U",
+            "name": "Verdicte, Walzer, Op. 137 - Eduard Strauss-V-840mB5Q7U.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Verdicte, Walzer, Op. 137 - Eduard Strauss-V-840mB5Q7U.mp4",
+            "size": 15.88471,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Verdicte, Walzer, Op. 137 - Eduard Strauss-V-840mB5Q7U.mp4?raw=true"
+        },
+        {
+            "id": "nUZWF434eM4",
+            "name": "Fletcher's American Cheese Choral Society-nUZWF434eM4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Fletcher's American Cheese Choral Society-nUZWF434eM4.mp4",
+            "size": 7.5018709999999995,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Fletcher's American Cheese Choral Society-nUZWF434eM4.mp4?raw=true"
         },
         {
             "id": "5dsFXbDGtyY",
@@ -58,11 +93,39 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Now You Has Jazz - Bing Crosby, Louis Armstrong From The Movie 'High Society' (1956)-6RNlyTyDguI.mp4?raw=true"
         },
         {
+            "id": "CXnMnn5rECs",
+            "name": "Liszt - Via Crucis - Station X - Jesus wird entkleidet-CXnMnn5rECs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Liszt - Via Crucis - Station X - Jesus wird entkleidet-CXnMnn5rECs.mp4",
+            "size": 1.537026,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Liszt - Via Crucis - Station X - Jesus wird entkleidet-CXnMnn5rECs.mp4?raw=true"
+        },
+        {
             "id": "x8j1x3pTOyo",
             "name": "Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
             "size": 80.182108,
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4?raw=true"
+        },
+        {
+            "id": "hnslf8G7OqM",
+            "name": "Berlioz - Les Troyens \u2013 Drei Ballette (IV. Akt) \u2219 hr-Sinfonieorchester \u2219 Alain Altinoglu-hnslf8G7OqM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Berlioz - Les Troyens \u2013 Drei Ballette (IV. Akt) \u2219 hr-Sinfonieorchester \u2219 Alain Altinoglu-hnslf8G7OqM.mp4",
+            "size": 54.406268999999995,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Berlioz - Les Troyens \u2013 Drei Ballette (IV. Akt) \u2219 hr-Sinfonieorchester \u2219 Alain Altinoglu-hnslf8G7OqM.mp4?raw=true"
+        },
+        {
+            "id": "rgvpEWiXVjs",
+            "name": "Vencidos-rgvpEWiXVjs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Vencidos-rgvpEWiXVjs.mp4",
+            "size": 4.269581,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Vencidos-rgvpEWiXVjs.mp4?raw=true"
+        },
+        {
+            "id": "LN95-acMumo",
+            "name": "[You'll Have To Swing It] Mr. Paganini-LN95-acMumo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/[You'll Have To Swing It] Mr. Paganini-LN95-acMumo.mp4",
+            "size": 3.385445,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/[You'll Have To Swing It] Mr. Paganini-LN95-acMumo.mp4?raw=true"
         },
         {
             "id": "NKMs8-DS_-E",
@@ -72,6 +135,20 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Ignaz Moscheles - Piano Concerto No.6 in B flat major, 'Fantastique', Op.90, Liu Xiao Ming-NKMs8-DS_-E.mp4?raw=true"
         },
         {
+            "id": "hQdgi1Rcsfs",
+            "name": "On the Road-hQdgi1Rcsfs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/On the Road-hQdgi1Rcsfs.mp4",
+            "size": 7.323778,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/On the Road-hQdgi1Rcsfs.mp4?raw=true"
+        },
+        {
+            "id": "u7ZCfnGA_Jc",
+            "name": "Estudiantina (Remastered)-u7ZCfnGA_Jc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Estudiantina (Remastered)-u7ZCfnGA_Jc.mp4",
+            "size": 3.2556399999999996,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Estudiantina (Remastered)-u7ZCfnGA_Jc.mp4?raw=true"
+        },
+        {
             "id": "EseMHr6VEM0",
             "name": "Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4",
@@ -79,5 +156,5 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4?raw=true"
         }
     ],
-    "total_size": 289.738788
+    "total_size": 402.910778
 }
