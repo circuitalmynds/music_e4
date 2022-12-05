@@ -2,11 +2,39 @@
     "available_space": true,
     "content": [
         {
+            "id": "jH4KtG9ybwc",
+            "name": "Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4",
+            "size": 48.149195,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Scotch\u2013Pictures Of Old Days (LP Vinyl) [1987]  -0-jH4KtG9ybwc.mp4?raw=true"
+        },
+        {
             "id": "q-b4RmrOWp0",
             "name": "Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4",
             "size": 65.167125,
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Johann Michael Haydn (1737-1806) - Divertimento in C major (c.1772)-q-b4RmrOWp0.mp4?raw=true"
+        },
+        {
+            "id": "Uiwp3ajWAtg",
+            "name": "Liszt - Concerto Path\u00e9tique in E minor - 1. Allegro-Uiwp3ajWAtg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Liszt - Concerto Path\u00e9tique in E minor - 1. Allegro-Uiwp3ajWAtg.mp4",
+            "size": 3.9548579999999998,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Liszt - Concerto Path\u00e9tique in E minor - 1. Allegro-Uiwp3ajWAtg.mp4?raw=true"
+        },
+        {
+            "id": "ZavwtJxmqJI",
+            "name": "Space - Magic Fly (Original Video) - 1977-ZavwtJxmqJI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Space - Magic Fly (Original Video) - 1977-ZavwtJxmqJI.mp4",
+            "size": 13.911442,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Space - Magic Fly (Original Video) - 1977-ZavwtJxmqJI.mp4?raw=true"
+        },
+        {
+            "id": "HZd0E0FOJwc",
+            "name": "Liszt - Missa solemnis zur Einweihung der Basilika in Gran - 5. Benedictus-HZd0E0FOJwc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Liszt - Missa solemnis zur Einweihung der Basilika in Gran - 5. Benedictus-HZd0E0FOJwc.mp4",
+            "size": 4.578732,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Liszt - Missa solemnis zur Einweihung der Basilika in Gran - 5. Benedictus-HZd0E0FOJwc.mp4?raw=true"
         },
         {
             "id": "xVbeo001neg",
@@ -23,11 +51,25 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Keyboard Sonata No. 4 in G Major, Hob. XVI, G1 - II. Menuetto-5dsFXbDGtyY.mp4?raw=true"
         },
         {
+            "id": "6RNlyTyDguI",
+            "name": "Now You Has Jazz - Bing Crosby, Louis Armstrong From The Movie 'High Society' (1956)-6RNlyTyDguI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Now You Has Jazz - Bing Crosby, Louis Armstrong From The Movie 'High Society' (1956)-6RNlyTyDguI.mp4",
+            "size": 22.511117,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Now You Has Jazz - Bing Crosby, Louis Armstrong From The Movie 'High Society' (1956)-6RNlyTyDguI.mp4?raw=true"
+        },
+        {
             "id": "x8j1x3pTOyo",
             "name": "Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4",
             "size": 80.182108,
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Niccolo Paganini - 24 Caprices Op.1-x8j1x3pTOyo.mp4?raw=true"
+        },
+        {
+            "id": "NKMs8-DS_-E",
+            "name": "Ignaz Moscheles - Piano Concerto No.6 in B flat major, 'Fantastique', Op.90, Liu Xiao Ming-NKMs8-DS_-E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e4/videos/Ignaz Moscheles - Piano Concerto No.6 in B flat major, 'Fantastique', Op.90, Liu Xiao Ming-NKMs8-DS_-E.mp4",
+            "size": 30.096923,
+            "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Ignaz Moscheles - Piano Concerto No.6 in B flat major, 'Fantastique', Op.90, Liu Xiao Ming-NKMs8-DS_-E.mp4?raw=true"
         },
         {
             "id": "EseMHr6VEM0",
@@ -37,5 +79,5 @@
             "url": "https://github.com/circuitalmynds/music_e4/blob/main/videos/Maria Callas Live - Bizet's Carmen Habanera, Hamburg 1962-EseMHr6VEM0.mp4?raw=true"
         }
     ],
-    "total_size": 166.536521
+    "total_size": 289.738788
 }
